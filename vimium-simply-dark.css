@@ -112,3 +112,12 @@ div.vimiumHUD .hud-find {
 div.vimiumHUD .vimiumHUDSearchArea {
   background-color: transparent;
 }
+div > .vimiumHintMarker span {
+/* linkhint text */
+color: white;
+font-weight: bold;
+font-size: 15px;
+}
+
+div > .vimiumHintMarker > .matchingCharacter {
+}
